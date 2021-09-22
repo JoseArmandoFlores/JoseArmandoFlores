@@ -40,4 +40,4 @@
 <br />
 
 [instagram]: https://www.instagram.com/j_a.011/
-[linkedin]: www.linkedin.com/in/josé-armando-flores-baldera
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-armando-flores-baldera-6533311b9/
