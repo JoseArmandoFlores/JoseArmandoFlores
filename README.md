@@ -41,7 +41,7 @@
 <h3 align="center">Top Languages</h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmandoFlores&langs_count=8&theme=github_dark)](https://github.com/JoseArmandoFlores/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmandoFlores&langs_count=8&theme=gotham)](https://github.com/JoseArmandoFlores/github-readme-stats)
 
 </div>
 
