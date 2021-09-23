@@ -2,11 +2,9 @@
 
 ### I'm a System Ingineer!👨🏽‍💻
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I keep growing up, learning new things!
+- 💻 I’m interested on graphic design and software develope!
+- ⚡ In my free time, I love to play videogames🎮 and basketball🏀!
 
 <h3 align="center">Languages and Tools</h3>
 <div style="display: inline_block" align="center"><br>
@@ -34,7 +32,7 @@
 <h3 align="center">Top Languages</h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmandoFlores&langs_count=8&theme=radical)](https://github.com/JoseArmandoFlores/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmandoFlores&langs_count=8&theme=github_dark)](https://github.com/JoseArmandoFlores/github-readme-stats)
 
 </div>
 
