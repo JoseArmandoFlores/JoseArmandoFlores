@@ -37,6 +37,10 @@
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [twitter]: https://twitter.com/JAFB28
 [instagram]: https://www.instagram.com/j_a.011/
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-armando-flores-baldera-6533311b9/
