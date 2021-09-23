@@ -30,7 +30,7 @@
 
 </div>
 
- ------
+ ---
 <h3 align="center">Top Languages</h3>
 <div align="center">
 
@@ -38,6 +38,7 @@
 
 </div>
 
+---
 ### Connect with me:
 
 [<img align="left" alt="JoseArmandoFlores | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
