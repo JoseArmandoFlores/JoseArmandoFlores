@@ -42,7 +42,7 @@
 <h3 align="center">Contribution Graph</h3>
 <div align="center">
      
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoseArmandoFlores&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoseArmandoFlores&theme=react_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### Connect with me:
