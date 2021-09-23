@@ -32,7 +32,9 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseArmandoFlores&theme=github_dark&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseArmandoFlores&theme=holi-theme" alt="mystreak"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseArmandoFlores&theme=gotham" alt="mystreak"/>
+
 </div>
 
  ---
