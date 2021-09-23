@@ -43,7 +43,7 @@
 <div align="center">
      
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoseArmandoFlores&theme=react-dark)](https://github.com/JoseArmandoFlores/github-readme-activity-graph)
-
+</div>
 ---
 ### Connect with me:
 
