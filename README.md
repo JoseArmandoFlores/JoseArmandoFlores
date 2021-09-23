@@ -31,7 +31,7 @@
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseArmandoFlores&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseArmandoFlores&theme=gotham&show_icons=true)
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseArmandoFlores&theme=gotham" alt="mystreak"/>
 
