@@ -2,11 +2,14 @@
 
 ### ¡I'm a System Ingineer!⭐👨🏽‍💻
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I keep growing up, learning new things!
 - 💻 I’m interested on graphic design and software develope!
 - ✌ In my free time, I love to play videogames🎮 and basketball🏀!
+
+<br />
+
 ---
 
 <h3 align="center">Languages and Tools</h3>
