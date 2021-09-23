@@ -1,10 +1,10 @@
 ## Hi everyone, I'm José Armando Flores Baldera 👋
 
-### I'm a System Ingineer!👨🏽‍💻
+### ¡I'm a System Ingineer!⭐👨🏽‍💻
 
 - 🌱 I keep growing up, learning new things!
 - 💻 I’m interested on graphic design and software develope!
-- ⚡ In my free time, I love to play videogames🎮 and basketball🏀!
+- ✌ In my free time, I love to play videogames🎮 and basketball🏀!
 ---
 
 <h3 align="center">Languages and Tools</h3>
