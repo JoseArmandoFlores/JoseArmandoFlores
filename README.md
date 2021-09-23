@@ -46,8 +46,10 @@
 
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</p><br>
+<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</h3>
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JoseArmandoFlores&theme=juicyfresh&no-bg=true" />
+</div>
 
 ---
 ### Connect with me:
