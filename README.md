@@ -2,7 +2,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### ¡I'm a System Ingineer!⭐👨🏽‍💻
+### ¡I'm a System Engineer!⭐👨🏽‍💻
 
 - 🌱 I keep growing up, learning new things!
 - 💻 I’m interested on graphic design and software develope!
