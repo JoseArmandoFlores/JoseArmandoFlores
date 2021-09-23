@@ -45,7 +45,10 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoseArmandoFlores&theme=react-dark)](https://github.com/JoseArmandoFlores/github-readme-activity-graph)
 
 </div>
-     
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=JoseArmandoFlores&theme=juicyfresh&no-bg=true" />
+
 ---
 ### Connect with me:
 
