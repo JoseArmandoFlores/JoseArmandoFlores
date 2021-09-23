@@ -46,9 +46,10 @@
 
 </div>
 
-<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</h3>
+---
+<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git Profile Trophies</h3>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JoseArmandoFlores&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=JoseArmandoFlores&theme=discord&no-bg=true" />
 </div>
 
 ---
