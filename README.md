@@ -5,7 +5,7 @@
 ### ¡I'm a System Engineer!⭐👨🏽‍💻
 
 - 🌱 I keep growing up, learning new things!
-- 💻 I’m interested on graphic design and software develope!
+- 💻 I’m interested on graphic design and software develop!
 - ✌ In my free time, I love to play videogames🎮 and basketball🏀!
 
 <br />
